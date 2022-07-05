@@ -6,4 +6,5 @@ Churn rates across variables are also analysed to highlight the differences in c
 
 After the analysis, I built a Logistic regression model using the relevant features to predict future churn. This model was then deployed in a streamlit web app.
 
+[I'm an inline-style link](https://docs.google.com/document/d/1GCK4oXCxiLWteIAWKeTSBpv-Nj9sHk5tO8wgvtQtJLY/edit?usp=sharing)
 More detailed summary: https://docs.google.com/document/d/1GCK4oXCxiLWteIAWKeTSBpv-Nj9sHk5tO8wgvtQtJLY/edit?usp=sharing
